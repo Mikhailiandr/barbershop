@@ -1,0 +1,144 @@
+<mxfile host="Electron" modified="2024-04-12T13:02:14.854Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.18 Chrome/120.0.6099.199 Electron/28.1.2 Safari/537.36" etag="HF8FkX5ie2-wbSHySaQS" version="22.1.18" type="device">
+  <diagram id="JmZtszyz9nQzbbzVooi8" name="Page-1">
+    <mxGraphModel dx="1434" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-57" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="509.5" y="610" as="sourcePoint" />
+            <mxPoint x="509.5" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-56" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="349.5" y="610" as="sourcePoint" />
+            <mxPoint x="349.5" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-55" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="axCCLgns9kOKdwcs6-Ru-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="610" as="sourcePoint" />
+            <mxPoint x="100" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-13" value="Веб-браузер клиента" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-16" value="Скрипты PHP сервера" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-17" value="СУБД MySQL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-18" target="axCCLgns9kOKdwcs6-Ru-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="160" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-22" value="Переход на страницу регистрации записи на прием" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-24" target="axCCLgns9kOKdwcs6-Ru-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="200" width="20" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-25" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-20" target="axCCLgns9kOKdwcs6-Ru-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="350" as="sourcePoint" />
+            <mxPoint x="320" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-26" value="Форма регистрации записи на прием" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-27" value="Выбор мастера, даты и времени, а также услуги" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-24" target="axCCLgns9kOKdwcs6-Ru-24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="80" y="220" />
+              <mxPoint x="80" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-29" target="axCCLgns9kOKdwcs6-Ru-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="280" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-31" value="Отправка формы для проверки записи" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-32" target="axCCLgns9kOKdwcs6-Ru-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="320" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-34" value="Проверка записи в БД" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="280" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-39" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-35" target="axCCLgns9kOKdwcs6-Ru-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="360" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-37" value="Результаты проверки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-38" target="axCCLgns9kOKdwcs6-Ru-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-41" value="Форма с результатами проверки" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-46" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-42" target="axCCLgns9kOKdwcs6-Ru-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="440" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-44" value="Подтверждение записи на прием" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-45" target="axCCLgns9kOKdwcs6-Ru-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="480" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-47" value="Запрос на запись информации в БД" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="440" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-53" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="axCCLgns9kOKdwcs6-Ru-48" target="axCCLgns9kOKdwcs6-Ru-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="520" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-50" value="Результат операции" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="500" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="560" width="20" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="axCCLgns9kOKdwcs6-Ru-54" value="Форма с результатами записи на прием" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="120" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
